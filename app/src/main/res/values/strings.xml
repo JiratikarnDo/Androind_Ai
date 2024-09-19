@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ai-Mobile</string>
+
+
+    <string-array name="Gender">
+        <item>เลือกเพศ</item>
+        <item>0.ชาย</item>
+        <item>1.หญิง</item>
+    </string-array>
+
+    <string-array name="Cp">
+        <item>เลือกอาการ</item>
+        <item>0. ไม่เจ็บ</item>
+        <item>1. เจ็บนิดหน่อย</item>
+        <item>2. เจ็บ</item>
+        <item>3. เจ็บมาก</item>
+        <item>4. เจ็บสุดๆ</item>
+    </string-array>
+
+
+</resources>
